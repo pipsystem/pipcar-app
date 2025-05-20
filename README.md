@@ -1,5 +1,9 @@
-# pipcar
+# Pipcar ERP
+Ứng dụng quản lý nhà xe và phân phối chuyến xe. 
 
+## Contributor
+- [@nqp-dev](https://github.com/nqp-dev) Quốc Phương - Flutter developer/Maintainer
+- [@HugoHenry701](https://github.com/HugoHenry701) Nguyễn Quang Hiếu - Flutter developer/Maintainer
 
 ## Nội dung
 
